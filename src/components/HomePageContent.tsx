@@ -7,10 +7,9 @@ import TestimonialsSection from '@/components/TestimonialsSection'
 import ContactSection from '@/components/ContactSection'
 import IntakeForm from '@/components/IntakeForm'
 import Footer from '@/components/Footer'
-import { LocationProvider, useLocation } from '@/components/LocationContext'
+import { LocationProvider } from '@/components/LocationContext'
 
 function HomePageContentInner() {
-  const { province } = useLocation();
   return (
     <main className="min-h-screen bg-white">
       <HeroSection />

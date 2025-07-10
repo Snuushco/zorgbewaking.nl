@@ -1,30 +1,6 @@
 import { Card, CardContent } from '@/components/ui/card'
 import { useLocation } from './LocationContext'
 
-const testimonials = [
-  {
-    name: "Mevr. Jansen",
-    role: "Directeur Verpleeghuis",
-    location: "Maastricht",
-    content: "De beveiligers van zorgbewaking.nl zijn een verrijking voor onze organisatie. Ze zijn discreet, professioneel en begrijpen de zorgomgeving perfect.",
-    rating: 5
-  },
-  {
-    name: "Dhr. Bakker",
-    role: "Manager Zorginstelling",
-    location: "Heerlen",
-    content: "Sinds de komst van zorgbewaking.nl voelen onze bewoners en personeel zich veel veiliger. De beveiligers zijn betrouwbaar en altijd bereikbaar.",
-    rating: 5
-  },
-  {
-    name: "Mevr. de Vries",
-    role: "Hoofd Beveiliging",
-    location: "Roermond",
-    content: "Professionele service, snelle reactietijden en beveiligers die echt oog hebben voor de bewoners. Een aanrader voor elke zorginstelling.",
-    rating: 5
-  }
-]
-
 export default function TestimonialsSection() {
   const { city } = useLocation();
   const testimonials = [
@@ -72,7 +48,7 @@ export default function TestimonialsSection() {
                   ))}
                 </div>
                 <blockquote className="text-gray-700 mb-4 italic">
-                  "{testimonial.content}"
+                  &quot;{testimonial.content}&quot;
                 </blockquote>
                 <div className="border-t pt-4">
                   <div className="font-semibold text-gray-900">{testimonial.name}</div>

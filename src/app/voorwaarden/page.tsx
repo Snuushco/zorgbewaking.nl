@@ -97,7 +97,7 @@ export default function VoorwaardenPage() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Artikel 5 - Prijzen en betaling</h2>
             <p className="text-gray-700 mb-4">
-              Alle genoemde prijzen zijn in euro's en inclusief BTW, tenzij anders vermeld.
+              Alle genoemde prijzen zijn in euro&apos;s en inclusief BTW, tenzij anders vermeld.
             </p>
             <p className="text-gray-700 mb-4">
               Facturen dienen binnen 14 dagen na factuurdatum te worden voldaan, tenzij anders 

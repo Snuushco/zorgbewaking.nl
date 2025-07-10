@@ -44,7 +44,7 @@ export default function PrivacyPage() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">1. Inleiding</h2>
             <p className="text-gray-700 mb-4">
-              zorgbewaking.nl, onderdeel van Praesidion Security B.V. (hierna: "wij", "ons" of "onze"), 
+              zorgbewaking.nl, onderdeel van Praesidion Security B.V. (hierna: &quot;wij&quot;, &quot;ons&quot; of &quot;onze&quot;), 
               respecteert uw privacy en zorgt ervoor dat de persoonlijke informatie die u ons verschaft 
               vertrouwelijk wordt behandeld. Deze privacyverklaring is van toepassing op alle diensten 
               van zorgbewaking.nl.

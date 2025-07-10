@@ -28,7 +28,7 @@ export default function Footer() {
                 Algemene voorwaarden
               </a>
               <a href="/sectoren" className="block text-sm text-gray-300 hover:text-white transition-colors">
-                Andere sectorpagina's
+                Andere sectorpagina&apos;s
               </a>
             </div>
           </div>

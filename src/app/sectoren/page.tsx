@@ -8,15 +8,14 @@ import LogoEvenementenbeveiliging from '@/components/LogoEvenementenbeveiliging'
 import LogoKantoorbeveiliging from '@/components/LogoKantoorbeveiliging'
 import LogoIndustrielebeveiliging from '@/components/LogoIndustrielebeveiliging'
 import LogoLogistiek from '@/components/LogoLogistiek'
-import Image from 'next/image'
 import LogoBouwbeveiligingNL from '@/components/LogoBouwbeveiligingNL'
 
 export const metadata: Metadata = {
-  title: 'Andere Sectorpagina\'s | zorgbewaking.nl',
-  description: 'Ontdek andere sectorpagina\'s van Praesidion Security B.V. Naast zorgbewaking.nl bieden wij beveiliging voor diverse sectoren.',
+  title: 'Andere Sectorpagina&apos;s | zorgbewaking.nl',
+  description: 'Ontdek andere sectorpagina&apos;s van Praesidion Security B.V. Naast zorgbewaking.nl bieden wij beveiliging voor diverse sectoren.',
   openGraph: {
-    title: 'Andere Sectorpagina\'s | zorgbewaking.nl',
-    description: 'Ontdek andere sectorpagina\'s van Praesidion Security B.V.',
+    title: 'Andere Sectorpagina&apos;s | zorgbewaking.nl',
+    description: 'Ontdek andere sectorpagina&apos;s van Praesidion Security B.V.',
     type: 'website',
     locale: 'nl_NL',
   },
@@ -75,7 +74,7 @@ export default function SectorenPage() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-3xl font-bold">Andere Sectorpagina's</h1>
+              <h1 className="text-3xl font-bold">Andere Sectorpagina&apos;s</h1>
               <p className="text-blue-100 mt-2">zorgbewaking.nl - Onderdeel van Praesidion Security B.V.</p>
             </div>
             <Link href="/">
@@ -95,7 +94,7 @@ export default function SectorenPage() {
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Naast zorgbewaking.nl biedt Praesidion Security B.V. professionele beveiligingsdiensten 
-            voor diverse sectoren. Ontdek hieronder onze andere specialisaties en sectorpagina's.
+            voor diverse sectoren. Ontdek hieronder onze andere specialisaties en sectorpagina&apos;s.
           </p>
         </div>
 
@@ -144,7 +143,7 @@ export default function SectorenPage() {
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {sectors.map((sector, index) => (
             sector.current ? (
-              <a
+              <Link
                 key={index}
                 href="/"
                 className="block cursor-pointer hover:shadow-lg transition-shadow"
@@ -183,9 +182,9 @@ export default function SectorenPage() {
                     </div>
                   </CardContent>
                 </Card>
-              </a>
+              </Link>
             ) : sector.title === 'Bouw' ? (
-              <a
+              <Link
                 key={index}
                 href={sector.url}
                 target="_blank"
@@ -223,7 +222,7 @@ export default function SectorenPage() {
                     </div>
                   </CardContent>
                 </Card>
-              </a>
+              </Link>
             ) : sector.title === 'Evenementenbeveiliging' ? (
               <Card key={index} className={`h-full cursor-pointer hover:shadow-lg transition-shadow`}>
                 <CardHeader>

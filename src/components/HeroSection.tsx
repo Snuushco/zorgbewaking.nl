@@ -6,11 +6,6 @@ import { useEffect } from 'react'
 import LogoZorgbewaking from './LogoZorgbewaking'
 import { useLocation } from './LocationContext'
 
-interface HeroSectionProps {
-  branding?: string
-  province?: string
-}
-
 const VESTIGINGEN = [
   { naam: 'Heerlen', lat: 50.888174, lon: 5.979499 },
   { naam: 'Maastricht', lat: 50.851368, lon: 5.690973 },
