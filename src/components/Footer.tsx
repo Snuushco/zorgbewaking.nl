@@ -13,8 +13,7 @@ export default function Footer() {
             <div className="space-y-1 text-sm text-gray-300">
               <p>Vergunningnummer: ND 6250</p>
               <p>KvK: 97640794</p>
-              <p>BTW: NL002280171B48</p>
-              <p>IBAN: NL23 KNAB 0616 6155 90</p>
+              <p>BTW: NL868152237B01</p>
             </div>
           </div>
           {/* Links */}
