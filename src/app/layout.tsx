@@ -29,6 +29,23 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="nl">
+      <head>
+        <title>zorgbewaking.nl | Zorgbeveiliging Limburg</title>
+        <meta name="description" content="zorgbewaking.nl: Professionele beveiliging voor zorginstellingen in Limburg. Praesidion Security levert vaste, representatieve beveiligers met zorginzicht." />
+        <meta property="og:title" content="zorgbewaking.nl | Zorgbeveiliging Limburg" />
+        <meta property="og:description" content="zorgbewaking.nl: Professionele beveiliging voor zorginstellingen in Limburg. Praesidion Security levert vaste, representatieve beveiligers met zorginzicht." />
+        <meta property="og:type" content="website" />
+        <meta property="og:locale" content="nl_NL" />
+        <meta name="robots" content="index, follow" />
+        {/* Google Analytics 4 */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+        <script dangerouslySetInnerHTML={{
+          __html: `window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-XXXXXXXXXX');`
+        }} />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

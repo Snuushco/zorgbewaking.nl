@@ -22,6 +22,7 @@ export default function IntakeForm() {
   
   const [isSubmitting, setIsSubmitting] = useState(false)
   const [submitSuccess, setSubmitSuccess] = useState(false)
+  const [submitError, setSubmitError] = useState('')
 
   const handleInputChange = (field: string, value: string | string[]) => {
     setFormData(prev => ({ ...prev, [field]: value }))
@@ -39,6 +40,7 @@ export default function IntakeForm() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setIsSubmitting(true)
+    setSubmitError('')
 
     try {
       const response = await fetch('/api/verstuur-intake', {
@@ -63,10 +65,10 @@ export default function IntakeForm() {
           voorkeursmoment: ''
         })
       } else {
-        throw new Error('Er is iets misgegaan bij het versturen van het formulier.')
+        setSubmitError('Er is iets misgegaan bij het versturen van het formulier. Probeer het later opnieuw.')
       }
     } catch {
-      // setSubmitError('Er is iets misgegaan bij het versturen van het formulier. Probeer het later opnieuw.')
+      setSubmitError('Er is iets misgegaan bij het versturen van het formulier. Probeer het later opnieuw.')
     } finally {
       setIsSubmitting(false)
     }
@@ -246,9 +248,9 @@ export default function IntakeForm() {
               </div>
 
               {/* Error message */}
-              {isSubmitting && (
+              {submitError && (
                 <div className="p-4 bg-red-50 border border-red-200 rounded-lg">
-                  <p className="text-red-700">Er is iets misgegaan bij het versturen van het formulier. Probeer het later opnieuw.</p>
+                  <p className="text-red-700">{submitError}</p>
                 </div>
               )}
 
