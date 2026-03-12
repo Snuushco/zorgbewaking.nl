@@ -12,6 +12,13 @@ export interface BlogPost {
 
 const blogData: Omit<BlogPost, "content">[] = [
   {
+    slug: "agressie-zorg-2026-beveiligers-ziekenhuizen",
+    title: "Agressie in de zorg bereikt nieuw hoogtepunt: waarom steeds meer ziekenhuizen kiezen voor professionele beveiliging",
+    excerpt: "57% van de zorgmedewerkers maakte in 2024 agressie mee (CBS). Van Nij Smellinghe tot het St. Antonius: ziekenhuizen kiezen steeds vaker voor structurele beveiligingsinzet.",
+    date: "2026-03-12",
+    readTime: "7 min",
+  },
+  {
     slug: "agressie-in-de-zorg",
     title: "Agressie in de zorg: 60% van medewerkers maakt het mee — wat kunt u doen?",
     excerpt: "Uit recent onderzoek (NOS, februari 2026) blijkt dat 60% van de zorgmedewerkers te maken heeft gehad met agressie. Wat kunt u als zorginstelling doen?",
