@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 function markdownToHtml(md: string): string {
   // Simple markdown to HTML converter
-  let html = md
+  const html = md
     // Remove the first h1 (we render it separately)
     .replace(/^# .+\n\n/, "")
     // Headers

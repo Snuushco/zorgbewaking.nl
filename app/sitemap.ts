@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllSlugs } from "@/lib/blog";
 import { regios } from "@/lib/regio";
+import { seoPages } from "@/lib/seo-pages";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://zorgbewaking.nl";
@@ -38,5 +39,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticRoutes, ...blogRoutes, ...regioRoutes];
+  const seoLandingRoutes = seoPages.map((page) => ({
+    url: `${baseUrl}/${page.slug}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly" as const,
+    priority: 0.8,
+  }));
+
+  return [...staticRoutes, ...blogRoutes, ...regioRoutes, ...seoLandingRoutes];
 }

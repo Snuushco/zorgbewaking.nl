@@ -1,0 +1,13 @@
+# zorgbewaking.nl
+
+Specialistische beveiligingssite van Praesidion Security.
+- Zorgbeveiliging Limburg: https://zorgbewaking.nl/zorgbeveiliging-limburg/
+- Beveiliging zorginstelling: https://zorgbewaking.nl/beveiliging-zorginstelling/
+- Beveiliging ziekenhuis: https://zorgbewaking.nl/beveiliging-ziekenhuis/
+- Beveiliging GGZ: https://zorgbewaking.nl/beveiliging-ggz/
+- Beveiliging verpleeghuis: https://zorgbewaking.nl/beveiliging-verpleeghuis/
+- Agressiepreventie zorg: https://zorgbewaking.nl/agressiepreventie-zorg/
+- De-escalerende beveiliging: https://zorgbewaking.nl/de-escalerende-beveiliging/
+- Security host zorglocatie: https://zorgbewaking.nl/security-host-zorglocatie/
+- Nachtbeveiliging zorginstelling: https://zorgbewaking.nl/nachtbeveiliging-zorginstelling/
+- Toegangscontrole zorg: https://zorgbewaking.nl/toegangscontrole-zorg/
