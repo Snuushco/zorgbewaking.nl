@@ -1,19 +1,39 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #0d9488;
-  --color-primary-dark: #0f766e;
-  --color-primary-light: #5eead4;
+  --color-primary: #0f766e;
+  --color-primary-dark: #0b4f49;
+  --color-primary-light: #6ee7d8;
   --color-accent: #f0fdfa;
-  --color-warm-gray: #f9fafb;
-  --color-text: #1f2937;
-  --color-text-light: #6b7280;
+  --color-warm-gray: #f7fbfa;
+  --color-text: #12312f;
+  --color-text-light: #5e746f;
 }
 
 html {
   scroll-behavior: smooth;
+  background: #f7fbfa;
 }
 
 body {
   color: var(--color-text);
+  background:
+    radial-gradient(circle at 12% 8%, rgba(15, 118, 110, 0.12), transparent 26%),
+    radial-gradient(circle at 88% 2%, rgba(110, 231, 216, 0.20), transparent 32%),
+    #f7fbfa;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: rgba(15, 118, 110, 0.22);
+}
+
+@layer components {
+  .zorg-glass-card {
+    border: 1px solid rgba(15, 118, 110, 0.13);
+    background: rgba(255, 255, 255, 0.78);
+    box-shadow: 0 28px 80px rgba(15, 77, 72, 0.11);
+    backdrop-filter: blur(18px);
+  }
 }
