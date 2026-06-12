@@ -34,28 +34,10 @@ const diensten = [
   },
 ];
 
-const testimonials = [
-  {
-    quote: "Sinds Praesidion onze beveiliging verzorgt, is het aantal incidenten op de SEH met 40% gedaald. De beveiligers zijn onderdeel van ons team geworden.",
-    name: "M. Jansen",
-    role: "Facilitair Manager, regionaal ziekenhuis Limburg",
-  },
-  {
-    quote: "Het verschil met onze vorige beveiligingspartij is dag en nacht. Deze mensen begrijpen onze bewoners en weten wanneer de-escalatie beter werkt dan ingrijpen.",
-    name: "A. de Vries",
-    role: "Locatiemanager, verpleeghuis Zuid-Limburg",
-  },
-  {
-    quote: "Vaste gezichten, korte lijnen, en beveiligers die onze GGZ-patiënten met respect benaderen. Precies wat we nodig hadden.",
-    name: "R. Bakker",
-    role: "Hoofd Veiligheid, GGZ-instelling",
-  },
-];
-
 const stats = [
   { value: "ND 8968", label: "Beveiligingsvergunning" },
   { value: "24/7", label: "Beschikbaarheid" },
-  { value: "100%", label: "Vaste teams" },
+  { value: "Vaste kern", label: "Teamaanpak" },
   { value: "Limburg", label: "Onze regio" },
 ];
 
@@ -286,34 +268,30 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Testimonials */}
+      {/* Professional proof */}
       <section className="py-20 lg:py-28">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center max-w-3xl mx-auto mb-16">
-            <span className="text-primary font-semibold text-sm uppercase tracking-wider">Ervaringen</span>
-            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mt-3 mb-6">
-              Wat onze opdrachtgevers zeggen
-            </h2>
-          </div>
-          <div className="grid md:grid-cols-3 gap-8">
-            {testimonials.map((t, i) => (
-              <div key={i} className="bg-white rounded-2xl p-8 border border-gray-100 shadow-sm">
-                <div className="flex gap-1 mb-4">
-                  {[...Array(5)].map((_, j) => (
-                    <svg key={j} className="w-5 h-5 text-amber-400" fill="currentColor" viewBox="0 0 20 20">
-                      <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
-                    </svg>
-                  ))}
-                </div>
-                <blockquote className="text-gray-700 leading-relaxed mb-6 italic">
-                  &ldquo;{t.quote}&rdquo;
-                </blockquote>
-                <div>
-                  <div className="font-semibold text-gray-900">{t.name}</div>
-                  <div className="text-sm text-gray-500">{t.role}</div>
-                </div>
-              </div>
-            ))}
+          <div className="grid gap-10 lg:grid-cols-[1.05fr_0.95fr] lg:items-center">
+            <div>
+              <span className="text-primary font-semibold text-sm uppercase tracking-wider">Professionele onderbouwing</span>
+              <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mt-3 mb-6">
+                Geen fake reviews — wel toetsbare zorgbeveiliging
+              </h2>
+              <p className="text-gray-600 text-lg leading-relaxed">
+                Referenties, klantnamen en testimonials worden alleen gepubliceerd na aantoonbare toestemming.
+                Op deze site kiezen we daarom voor inhoudelijke onderbouwing: protocollen, de-escalatie,
+                vaste aanspreekpunten, rapportage en zorgvuldige afstemming met de instelling.
+              </p>
+            </div>
+            <div className="bg-white rounded-3xl p-8 border border-gray-100 shadow-sm">
+              <h3 className="text-xl font-bold text-gray-900 mb-5">Waar opdrachtgevers op kunnen toetsen</h3>
+              <ul className="space-y-3 text-gray-600">
+                <li>• Intake op doelgroep, risico en locatiecontext</li>
+                <li>• Postinstructies en escalatielijnen vooraf vastgelegd</li>
+                <li>• De-escalerende houding passend bij zorgomgevingen</li>
+                <li>• Offerte op maat; geen losse standaardprijzen op de site</li>
+              </ul>
+            </div>
           </div>
         </div>
       </section>
