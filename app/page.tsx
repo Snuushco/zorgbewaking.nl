@@ -270,23 +270,23 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid gap-10 lg:grid-cols-[1.05fr_0.95fr] lg:items-center">
             <div>
-              <span className="text-primary font-semibold text-sm uppercase tracking-wider">Professionele onderbouwing</span>
+              <span className="text-primary font-semibold text-sm uppercase tracking-wider">Werkwijze</span>
               <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mt-3 mb-6">
-                Geen fake reviews — wel toetsbare zorgbeveiliging
+                Zorgbeveiliging met rust, continuïteit en duidelijke afstemming
               </h2>
               <p className="text-gray-600 text-lg leading-relaxed">
-                Referenties, klantnamen en testimonials worden alleen gepubliceerd na aantoonbare toestemming.
-                Op deze site kiezen we daarom voor inhoudelijke onderbouwing: protocollen, de-escalatie,
-                vaste aanspreekpunten, rapportage en zorgvuldige afstemming met de instelling.
+                We stemmen de inzet af op doelgroep, locatiecontext, openingstijden en interne
+                protocollen. Zo ontstaat een herkenbaar team dat veiligheid ondersteunt zonder
+                de menselijke maat in de zorg te verliezen.
               </p>
             </div>
             <div className="bg-white rounded-3xl p-8 border border-gray-100 shadow-sm">
-              <h3 className="text-xl font-bold text-gray-900 mb-5">Waar opdrachtgevers op kunnen toetsen</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-5">Waar opdrachtgevers op kunnen sturen</h3>
               <ul className="space-y-3 text-gray-600">
                 <li>• Intake op doelgroep, risico en locatiecontext</li>
                 <li>• Postinstructies en escalatielijnen vooraf vastgelegd</li>
                 <li>• De-escalerende houding passend bij zorgomgevingen</li>
-                <li>• Offerte op maat; geen losse standaardprijzen op de site</li>
+                <li>• Vaste aanspreekpunten, rapportage en evaluatiemomenten</li>
               </ul>
             </div>
           </div>
