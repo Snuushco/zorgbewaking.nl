@@ -12,6 +12,13 @@ export interface BlogPost {
 
 const blogData: Omit<BlogPost, "content">[] = [
   {
+    slug: "zorgbeveiliging-roosters-overdracht-werkinstructies",
+    title: "Zorgbeveiliging zonder ruis: waarom roosters, overdracht en werkinstructies tellen",
+    excerpt: "Wat signalen over roosters en operationele druk betekenen voor zorgbeveiliging: voorspelbaarheid, vaste gezichten, heldere overdracht en praktische instructies.",
+    date: "2026-06-25",
+    readTime: "6 min",
+  },
+  {
     slug: "agressie-zorg-2026-beveiligers-ziekenhuizen",
     title: "Agressie in de zorg bereikt nieuw hoogtepunt: waarom steeds meer ziekenhuizen kiezen voor professionele beveiliging",
     excerpt: "57% van de zorgmedewerkers maakte in 2024 agressie mee (CBS). Van Nij Smellinghe tot het St. Antonius: ziekenhuizen kiezen steeds vaker voor structurele beveiligingsinzet.",
