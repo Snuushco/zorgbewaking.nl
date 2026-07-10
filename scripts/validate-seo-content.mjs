@@ -173,7 +173,7 @@ for (const page of pages) {
     errors.push(`${page.slug}: updatedAt moet YYYY-MM-DD zijn`);
   }
 
-  if (!page.canonical?.startsWith(`https://zorgbewaking.nl/${page.slug}/`)) {
+  if (page.canonical !== `https://zorgbewaking.nl/${page.slug}`) {
     errors.push(`${page.slug}: canonical moet de zorgbewaking.nl slug volgen`);
   }
 
