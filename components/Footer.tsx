@@ -47,12 +47,12 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-semibold mb-4">Regio&apos;s</h3>
             <ul className="space-y-3 text-sm">
-              <li><Link href="/regio/maastricht" className="hover:text-primary transition-colors">Maastricht</Link></li>
-              <li><Link href="/regio/heerlen" className="hover:text-primary transition-colors">Heerlen</Link></li>
-              <li><Link href="/regio/sittard" className="hover:text-primary transition-colors">Sittard</Link></li>
-              <li><Link href="/regio/roermond" className="hover:text-primary transition-colors">Roermond</Link></li>
-              <li><Link href="/regio/venlo" className="hover:text-primary transition-colors">Venlo</Link></li>
-              <li><Link href="/regio/geleen" className="hover:text-primary transition-colors">Geleen</Link></li>
+              <li><Link href="/zorgbeveiliging-maastricht" className="hover:text-primary transition-colors">Maastricht</Link></li>
+              <li><Link href="/zorgbeveiliging-heerlen" className="hover:text-primary transition-colors">Heerlen</Link></li>
+              <li><Link href="/zorgbeveiliging-sittard-geleen" className="hover:text-primary transition-colors">Sittard-Geleen</Link></li>
+              <li><Link href="/zorgbeveiliging-roermond" className="hover:text-primary transition-colors">Roermond</Link></li>
+              <li><Link href="/zorgbeveiliging-venlo" className="hover:text-primary transition-colors">Venlo</Link></li>
+              <li><Link href="/zorgbeveiliging-weert" className="hover:text-primary transition-colors">Weert</Link></li>
             </ul>
           </div>
 

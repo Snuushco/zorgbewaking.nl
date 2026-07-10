@@ -2,6 +2,12 @@
 
 Specialistische beveiligingssite van Praesidion Security.
 - Zorgbeveiliging Limburg: https://zorgbewaking.nl/zorgbeveiliging-limburg/
+- Zorgbeveiliging Maastricht: https://zorgbewaking.nl/zorgbeveiliging-maastricht/
+- Zorgbeveiliging Heerlen: https://zorgbewaking.nl/zorgbeveiliging-heerlen/
+- Zorgbeveiliging Sittard-Geleen: https://zorgbewaking.nl/zorgbeveiliging-sittard-geleen/
+- Zorgbeveiliging Roermond: https://zorgbewaking.nl/zorgbeveiliging-roermond/
+- Zorgbeveiliging Venlo: https://zorgbewaking.nl/zorgbeveiliging-venlo/
+- Zorgbeveiliging Weert: https://zorgbewaking.nl/zorgbeveiliging-weert/
 - Beveiliging zorginstelling: https://zorgbewaking.nl/beveiliging-zorginstelling/
 - Beveiliging ziekenhuis: https://zorgbewaking.nl/beveiliging-ziekenhuis/
 - Beveiliging GGZ: https://zorgbewaking.nl/beveiliging-ggz/

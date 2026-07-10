@@ -1,0 +1,882 @@
+[
+  {
+    "slug": "zorgbeveiliging-limburg",
+    "kind": "regional",
+    "title": "Zorgbeveiliging Limburg | Zorgbewaking.nl",
+    "description": "Zorgbeveiliging in Limburg voor zorglocaties die behoefte hebben aan rust, toegangscontrole, avond- of nachtaanwezigheid en de-escalerende ondersteuning.",
+    "h1": "Zorgbeveiliging Limburg",
+    "eyebrow": "Regionale zorgbeveiliging",
+    "hero": "Limburg heeft compacte steden, grensregio's, ziekenhuislocaties, GGZ-voorzieningen, woonzorglocaties en kleinere eerstelijnsorganisaties dicht bij elkaar. Praesidion Security helpt zorgorganisaties de beveiligingsvraag praktisch te vertalen naar inzet, instructies, rolgrenzen en rapportage per locatie.",
+    "canonical": "https://zorgbewaking.nl/zorgbeveiliging-limburg/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Limburg", "Maastricht", "Heerlen", "Sittard-Geleen", "Roermond", "Venlo", "Weert"],
+    "intent": "zorgbeveiliging provincie Limburg",
+    "riskContext": "De Limburgse zorgcontext bestaat uit stedelijke drukte rond stations en centra, grensverkeer, bezoekerspieken bij ziekenhuis- en polilocaties, verspreide woonzorglocaties en instellingen waar avondrust, bezoekregie of agressiepreventie extra aandacht vraagt.",
+    "approach": [
+      "Inventarisatie van locatie, doelgroep, openingstijden, toegangspunten en bestaande huisregels.",
+      "Vertaling naar postinstructies, overdrachtsafspraken, rapportagevorm en escalatielijn.",
+      "Afstemming met receptie, facilitaire dienst, zorgteam of locatiemanager over rolgrenzen.",
+      "Periodieke evaluatie op basis van meldingen, observaties en veranderende bezetting."
+    ],
+    "deliverables": [
+      "Locatiegerichte beveiligingsintake voor Limburgse zorglocaties.",
+      "Post- en ronde-instructie met aandacht voor bezoekers, leveranciers en kwetsbare bewoners of patienten.",
+      "Rapportageformat voor incidenten, bijzonderheden en terugkerende signalen.",
+      "Voorstel voor tijdelijke, avond-, nacht- of structurele beveiligingsinzet."
+    ],
+    "sections": [
+      {
+        "heading": "Wanneer Limburgse zorglocaties beveiliging inzetten",
+        "body": "De aanleiding is vaak concreet: onrust bij een ingang, ongewenst bezoek, spanning op een afdeling, lone working in de avond, schade of een reeks incidentmeldingen. De beveiligingsvraag wordt daarom niet als standaardpakket behandeld, maar als combinatie van omgeving, doelgroep, gebouwindeling en gewenste zichtbaarheid."
+      },
+      {
+        "heading": "Regionale verschillen in de praktijk",
+        "body": "Een ziekenhuisentree in een centrumstad, een GGZ-locatie in Parkstad en een woonzorglocatie in een kleinere kern vragen elk andere afspraken. De intake vertaalt doelgroep, gebouw, openingstijden en lokale omgeving naar passende taken en meldlijnen."
+      },
+      {
+        "heading": "Samenhang tussen steden",
+        "body": "Een provinciale aanpak voorkomt dat elke locatie opnieuw het wiel uitvindt. Voor Maastricht, Parkstad, Westelijke Mijnstreek, Midden-Limburg, Noord-Limburg en Weert kan dezelfde werkwijze worden gebruikt, terwijl de instructies per pand en doelgroep verschillen."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is zorgbeveiliging in Limburg hetzelfde als reguliere objectbeveiliging?",
+        "answer": "Nee. Bij zorgbeveiliging tellen bejegening, rust, privacy, overdracht en rolafbakening zwaarder mee. De beveiliger is aanwezig voor veiligheid en orde, niet voor medische of verpleegkundige taken."
+      },
+      {
+        "question": "Hoe blijft de rol van beveiliging in de zorg duidelijk?",
+        "answer": "De postinstructie beschrijft taken, grenzen, aanspreekwijze en escalatie. Medische en verpleegkundige verantwoordelijkheden blijven bij de zorgorganisatie."
+      },
+      {
+        "question": "Wat levert een intake op?",
+        "answer": "Een intake levert een concreet beeld op van risico's, toegangspunten, gewenste tijden, instructies, rapportage en de vraag of tijdelijke of structurele inzet passend is."
+      }
+    ],
+    "relatedSlugs": ["zorgbeveiliging-maastricht", "zorgbeveiliging-heerlen", "zorgbeveiliging-sittard-geleen", "zorgbeveiliging-roermond"]
+  },
+  {
+    "slug": "zorgbeveiliging-maastricht",
+    "kind": "regional",
+    "title": "Zorgbeveiliging Maastricht | Zorgbewaking.nl",
+    "description": "Zorgbeveiliging in Maastricht voor zorglocaties met bezoekersdrukte, stadsdynamiek, avondopenstelling, polistromen of toezicht rond entree en terrein.",
+    "h1": "Zorgbeveiliging Maastricht",
+    "eyebrow": "Maastricht en Heuvelland",
+    "hero": "Maastricht combineert academische zorg, eerstelijnszorg, woonzorg, studentenleven, toerisme en drukke binnenstadsroutes. Voor zorglocaties betekent dat dat entree, wachtgebied, parkeerroute en avondsluiting goed op elkaar moeten aansluiten.",
+    "canonical": "https://zorgbewaking.nl/zorgbeveiliging-maastricht/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Maastricht", "Heuvelland", "Eijsden-Margraten", "Meerssen", "Valkenburg aan de Geul"],
+    "intent": "zorgbeveiliging Maastricht",
+    "riskContext": "Rond Maastricht kunnen zorglocaties te maken krijgen met hoge bezoekersdruk, internationale bezoekers, studentenpopulatie, evenementen in de stad en beperkte ruimte rond entrees of parkeerplaatsen.",
+    "approach": [
+      "Entree- en bezoekersproces bekijken op piekmomenten, inclusief avondsluiting.",
+      "Afspreken wanneer beveiliging zichtbaar ontvangt, doorverwijst of juist op afstand observeert.",
+      "Route voor ongewenst bezoek en herhaald grensoverschrijdend gedrag vastleggen.",
+      "Overdracht met receptie of zorgteam compact maken zodat signalen niet blijven hangen."
+    ],
+    "deliverables": [
+      "Bezoekers- en entreescan voor Maastrichtse zorglocaties.",
+      "Instructie voor receptieondersteuning, aanspreken en doorverwijzen.",
+      "Escalatiekaart voor ongewenst bezoek, agressie of overlast rond sluitingstijd.",
+      "Rapportageoverzicht met terugkerende tijdstippen, plekken en aanleidingen."
+    ],
+    "sections": [
+      {
+        "heading": "Stadszorg met veel beweging",
+        "body": "Een zorglocatie in Maastricht staat zelden los van de omgeving. Bezoekers komen lopend, met taxi, OV, fiets of auto; soms spreken zij meerdere talen of kennen zij de lokale zorgstructuur niet. Beveiliging moet daarom duidelijk, rustig en gastvrij kunnen optreden zonder de zorgprocessen over te nemen."
+      },
+      {
+        "heading": "Entree en omgeving als één proces",
+        "body": "In Maastricht kunnen binnenstad, parkeerroute, taxi's, internationale bezoekers en avondzorg samenkomen rond dezelfde entree. Een goede instructie verbindt ontvangst, doorverwijzing, observatie en opschaling zonder het zorgproces over te nemen."
+      },
+      {
+        "heading": "Praktische focus",
+        "body": "Bij intake ligt de nadruk op entreezones, wachtruimten, parkeer- of rookplekken, route naar spoed- of avondzorg en de overdracht na incidenten. Juist kleine procesafspraken kunnen veel onduidelijkheid bij bezoekers en medewerkers wegnemen."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is beveiliging in Maastricht vooral nodig bij grote zorglocaties?",
+        "answer": "Niet alleen. Ook kleinschalige woonzorg, praktijken en avondlocaties kunnen baat hebben bij duidelijke toegangscontrole of tijdelijke aanwezigheid na incidenten."
+      },
+      {
+        "question": "Houdt de aanpak rekening met internationale bezoekers?",
+        "answer": "Ja, bij de intake kan taal, route-uitleg en duidelijke bewegwijzering worden meegenomen. Dat blijft praktische ondersteuning, geen zorginhoudelijke beoordeling."
+      },
+      {
+        "question": "Hoe wordt een startdatum voor inzet bepaald?",
+        "answer": "Na de locatiegerichte intake worden taken, gewenst profiel, instructies, roosters en beschikbaarheid afgestemd. Daarna volgt een concreet voorstel met startmoment."
+      }
+    ],
+    "relatedSlugs": ["zorgbeveiliging-limburg", "zorgbeveiliging-heerlen", "beveiliging-ziekenhuis", "toegangscontrole-zorg"]
+  },
+  {
+    "slug": "zorgbeveiliging-heerlen",
+    "kind": "regional",
+    "title": "Zorgbeveiliging Heerlen | Zorgbewaking.nl",
+    "description": "Zorgbeveiliging in Heerlen en Parkstad voor zorglocaties met aandacht voor entreeveiligheid, GGZ-context, woonzorg en de-escalerende aanwezigheid.",
+    "h1": "Zorgbeveiliging Heerlen",
+    "eyebrow": "Heerlen en Parkstad",
+    "hero": "Heerlen ligt centraal in Parkstad, met zorg, wonen, maatschappelijke ondersteuning en stationsgebied dicht op elkaar. Voor beveiliging in de zorg vraagt dat om heldere grenzen, rustige aanspreekbaarheid en goede overdracht met teams die al veel opvangen.",
+    "canonical": "https://zorgbewaking.nl/zorgbeveiliging-heerlen/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Heerlen", "Parkstad", "Kerkrade", "Landgraaf", "Brunssum", "Voerendaal"],
+    "intent": "zorgbeveiliging Heerlen",
+    "riskContext": "In Heerlen en Parkstad kunnen zorglocaties te maken hebben met sociaal-maatschappelijke problematiek, GGZ-gerelateerde spanning, bezoekers die grenzen opzoeken en woonzorglocaties waar rust in de avond belangrijk is.",
+    "approach": [
+      "Gedrags- en omgevingssignalen verzamelen zonder medische conclusies te trekken.",
+      "Afspraken maken over aanspreken, afstand houden, terugtrekken en opschalen.",
+      "Rondes richten op plekken waar medewerkers of bewoners zich kwetsbaar voelen.",
+      "Incidentrapportage bruikbaar maken voor evaluatie met facilitair of locatiemanagement."
+    ],
+    "deliverables": [
+      "Risico-inventarisatie voor entree, algemene ruimten en buitenrand.",
+      "De-escalerende postinstructie met duidelijke rolgrenzen.",
+      "Avond- of nachtrondeplan voor woonzorg en maatschappelijke zorglocaties.",
+      "Signalenrapportage met patronen in plaats van losse anekdotes."
+    ],
+    "sections": [
+      {
+        "heading": "Parkstad vraagt om nuance",
+        "body": "Zorgbeveiliging in Heerlen is niet gebaat bij harde standaardtaal. Medewerkers hebben vaak al ervaring met spanning aan de balie of in algemene ruimten. De toegevoegde waarde zit in rust, voorspelbaarheid en het consequent hanteren van huisregels."
+      },
+      {
+        "heading": "Verschillende zorgomgevingen in Parkstad",
+        "body": "Parkstad combineert ziekenhuiszorg, GGZ, woonzorg en maatschappelijke ondersteuning in een stedelijk netwerk. Beveiliging moet daarom per locatie aansluiten op doelgroep, bezoekersproces, buitenruimte en de rol van aanwezige zorgteams."
+      },
+      {
+        "heading": "Van incident naar patroon",
+        "body": "Een enkele melding zegt weinig. Door tijdstip, plek, aanleiding en afhandeling vast te leggen ontstaat zicht op terugkerende risico's. Daarmee kan een locatie beslissen of zichtbare aanwezigheid, toegangscontrole of juist aangepaste instructie nodig is."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Kan beveiliging helpen bij GGZ-gerelateerde onrust?",
+        "answer": "Beveiliging kan ondersteunen met rust, afstand, toegangsregie en melding volgens instructie. Medische of behandelinhoudelijke keuzes blijven bij zorgprofessionals."
+      },
+      {
+        "question": "Is nachtbeveiliging in Heerlen mogelijk?",
+        "answer": "Nachtinzet kan worden besproken als risico, locatie en planning daarom vragen. Er wordt vooraf bepaald welke rondes, meldingen en overdracht nodig zijn."
+      },
+      {
+        "question": "Hoe wordt de-escalatie in Heerlen praktisch voorbereid?",
+        "answer": "Met afspraken over houding, afstand, taalgebruik, terugtrekken, meldlijnen en overdracht. De beveiliger werkt binnen de instructie en laat zorginhoudelijke keuzes bij het zorgteam."
+      }
+    ],
+    "relatedSlugs": ["zorgbeveiliging-limburg", "zorgbeveiliging-maastricht", "beveiliging-ggz", "de-escalerende-beveiliging"]
+  },
+  {
+    "slug": "zorgbeveiliging-sittard-geleen",
+    "kind": "regional",
+    "title": "Zorgbeveiliging Sittard-Geleen | Zorgbewaking.nl",
+    "description": "Zorgbeveiliging in Sittard-Geleen voor ziekenhuisomgeving, woonzorg, avondrust, terreinrondes en toegangsafspraken in de Westelijke Mijnstreek.",
+    "h1": "Zorgbeveiliging Sittard-Geleen",
+    "eyebrow": "Westelijke Mijnstreek",
+    "hero": "Sittard-Geleen heeft een verspreide stedelijke structuur met zorg, wonen, industrie, stationsroutes en regionale voorzieningen. Zorgbeveiliging moet daar rekening houden met meerdere entrees, terreinbewegingen en uiteenlopende doelgroepen.",
+    "canonical": "https://zorgbewaking.nl/zorgbeveiliging-sittard-geleen/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Sittard", "Geleen", "Born", "Beek", "Stein", "Westelijke Mijnstreek"],
+    "intent": "zorgbeveiliging Sittard-Geleen",
+    "riskContext": "De regio kent zorglocaties bij woonwijken, bedrijventerreinen en belangrijke verkeersassen. Risico's zitten vaak in avondtoegang, parkeren, bezoekersstromen, ongewenste aanwezigheid op terrein en overdracht tussen meerdere gebouwen.",
+    "approach": [
+      "Gebouw- en terreinroutes scheiden in heldere loop- en controlerondes.",
+      "Instructies maken voor leveranciers, bezoek buiten bezoektijd en onverwachte meldingen.",
+      "Afstemmen welke signalen naar zorgteam, receptie, facilitair of externe hulp gaan.",
+      "Rapporteren op locatieverschillen tussen Sittard, Geleen en omliggende kernen."
+    ],
+    "deliverables": [
+      "Terrein- en entreerondeplan voor zorglocaties met meerdere toegangspunten.",
+      "Bezoek- en leveranciersinstructie voor dag, avond of nacht.",
+      "Overdrachtsformat voor teams die op meerdere gebouwen werken.",
+      "Advies voor zichtbare of juist terughoudende beveiligingspositie."
+    ],
+    "sections": [
+      {
+        "heading": "Een gemeente, meerdere zorgsituaties",
+        "body": "Sittard en Geleen vragen niet om dezelfde tekst met een andere plaatsnaam. De praktijk kan verschillen tussen een locatie bij een station, een woonzorggebouw in een wijk, een terrein met meerdere entrees of een avondlocatie met beperkte bezetting."
+      },
+      {
+        "heading": "Zorg tussen stad, wijk en terrein",
+        "body": "In Sittard-Geleen kunnen ziekenhuiszorg, woonzorg en andere zorgfuncties dicht bij stationsroutes, woonwijken of bedrijventerreinen liggen. De intake kijkt daarom zowel naar entree en algemene ruimten als naar parkeergebied, leveringen en buitenrondes."
+      },
+      {
+        "heading": "Toegang en terrein als zwaartepunt",
+        "body": "In deze regio ligt de beveiligingsvraag vaak op de grens van gebouw en terrein: wie mag naar binnen, waar wacht bezoek, hoe worden leveranciers ontvangen en welke buitenruimte vraagt controle buiten kantooruren."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Waarom is er een gezamenlijke pagina voor Sittard-Geleen?",
+        "answer": "Omdat veel zoek- en zorgvragen de gemeente en Westelijke Mijnstreek als geheel raken. De uitvoering blijft per pand, entree en doelgroep verschillend."
+      },
+      {
+        "question": "Kan de aanvraag alleen voor Sittard of alleen voor Geleen gelden?",
+        "answer": "Ja. De regiopagina behandelt de gemeente als geheel, maar instructies, rondes, toegang en rapportage worden altijd per concrete locatie uitgewerkt."
+      },
+      {
+        "question": "Gaat beveiliging ook over medische risico's?",
+        "answer": "Nee. De inzet richt zich op orde, toegang, observatie en melding volgens instructie. Medische beoordeling ligt bij bevoegde zorgprofessionals."
+      }
+    ],
+    "relatedSlugs": ["zorgbeveiliging-limburg", "zorgbeveiliging-roermond", "nachtbeveiliging-zorginstelling", "toegangscontrole-zorg"]
+  },
+  {
+    "slug": "zorgbeveiliging-roermond",
+    "kind": "regional",
+    "title": "Zorgbeveiliging Roermond | Zorgbewaking.nl",
+    "description": "Zorgbeveiliging in Roermond en Midden-Limburg met aandacht voor bezoekersdrukte, binnenstad, outletverkeer, woonzorg en avondtoegang.",
+    "h1": "Zorgbeveiliging Roermond",
+    "eyebrow": "Midden-Limburg",
+    "hero": "Roermond is centrumstad voor Midden-Limburg en combineert zorgfuncties met binnenstad, toerisme, retaildrukte en regionale bereikbaarheid. Zorglocaties kunnen daardoor pieken ervaren die buiten het eigen gebouw ontstaan.",
+    "canonical": "https://zorgbewaking.nl/zorgbeveiliging-roermond/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Roermond", "Midden-Limburg", "Leudal", "Maasgouw", "Roerdalen", "Echt-Susteren"],
+    "intent": "zorgbeveiliging Roermond",
+    "riskContext": "In Roermond spelen bezoekersstromen, parkeerdruk, binnenstadsevenementen en regionale zorgfuncties mee. Voor woonzorg en polilocaties kan dat leiden tot onduidelijkheid rond toegang, wachtruimten en buitenruimten.",
+    "approach": [
+      "Piekmomenten rond bezoekers, parkeren en sluitingstijd in kaart brengen.",
+      "Afspreken hoe beveiliging omgaat met zoekend publiek, ongewenst verblijf en overlast.",
+      "Rondes combineren met observatie van entree, buitenrand en algemene ruimten.",
+      "Evalueren of zichtbare aanwezigheid of incidentele inzet voldoende is."
+    ],
+    "deliverables": [
+      "Piekmomentenanalyse voor entree, parkeergebied en wachtruimte.",
+      "Instructie voor bezoekersregie en aanspreken van ongewenst verblijf.",
+      "Rondeplan voor woonzorg, behandel- of kantoorlocatie.",
+      "Kort evaluatieverslag met verbeterpunten voor huisregels en overdracht."
+    ],
+    "sections": [
+      {
+        "heading": "Zorglocatie in een drukke centrumstad",
+        "body": "Roermond trekt bezoekers uit de regio en daarbuiten. Een zorglocatie merkt dat soms indirect: volle parkeerplaatsen, mensen die de weg zoeken, wachttijdspanning of meer beweging rond de ingang. Beveiliging helpt om het proces rustig en voorspelbaar te houden."
+      },
+      {
+        "heading": "Zorgfunctie en centrumdrukte verbinden",
+        "body": "Een Roermondse zorglocatie kan bezoekers ontvangen uit heel Midden-Limburg en tegelijk te maken hebben met centrumverkeer, parkeerdruk of evenementen. Beveiliging richt zich dan op heldere routes, wachtruimten, entreeafspraken en overdracht bij afwijkingen."
+      },
+      {
+        "heading": "Van drukte naar duidelijke afspraken",
+        "body": "De intake kijkt naar simpele maar belangrijke vragen: wie spreekt bezoek aan, wat gebeurt er na sluiting, waar wachten taxi's of familieleden en hoe wordt een incident zonder ruis overgedragen."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is outlet- of binnenstaddrukte relevant voor zorgbeveiliging?",
+        "answer": "Soms wel. Niet omdat retail zelf zorgbeveiliging vraagt, maar omdat verkeers- en bezoekersdruk rond een zorglocatie invloed kan hebben op entree, parkeren en wachtruimte."
+      },
+      {
+        "question": "Kan de inzet tijdelijk zijn na incidenten?",
+        "answer": "Ja, tijdelijke inzet kan worden besproken. De omvang hangt af van risico, doel en planning."
+      },
+      {
+        "question": "Worden resultaten gegarandeerd?",
+        "answer": "Nee. Beveiliging kan risico's verminderen en processen verduidelijken, maar garandeert geen incidentvrije omgeving."
+      }
+    ],
+    "relatedSlugs": ["zorgbeveiliging-limburg", "zorgbeveiliging-sittard-geleen", "zorgbeveiliging-weert", "agressiepreventie-zorg"]
+  },
+  {
+    "slug": "zorgbeveiliging-venlo",
+    "kind": "regional",
+    "title": "Zorgbeveiliging Venlo | Zorgbewaking.nl",
+    "description": "Zorgbeveiliging in Venlo en Noord-Limburg voor grensregio, logistieke dynamiek, bezoekersregie, woonzorg en de-escalerende ondersteuning.",
+    "h1": "Zorgbeveiliging Venlo",
+    "eyebrow": "Noord-Limburg en grensregio",
+    "hero": "Venlo is een Noord-Limburgs knooppunt met grensverkeer, logistiek, regionale zorg en een diverse bezoekersstroom. Zorgbeveiliging vraagt hier om duidelijke taal, rustige ontvangst en afspraken over toegang en terrein.",
+    "canonical": "https://zorgbewaking.nl/zorgbeveiliging-venlo/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Venlo", "Blerick", "Tegelen", "Noord-Limburg", "Horst aan de Maas", "Peel en Maas"],
+    "intent": "zorgbeveiliging Venlo",
+    "riskContext": "De grensligging, logistieke omgeving en regionale centrumfunctie kunnen leiden tot diverse bezoekersvragen, taalverschillen, parkeerspanning, avondbewegingen en onbekende personen op of rond zorgterreinen.",
+    "approach": [
+      "Bezoekers- en leveranciersstromen scheiden waar dat voor de locatie relevant is.",
+      "Instructies opstellen voor duidelijke ontvangst, doorverwijzing en begrenzing.",
+      "Aandacht geven aan taal, route-uitleg en escalatie zonder medische duiding.",
+      "Terreinrondes koppelen aan concrete meldpunten en overdracht."
+    ],
+    "deliverables": [
+      "Entree- en terreinadvies voor Venlose zorglocaties.",
+      "Instructie voor meertalige of grensoverschrijdende bezoekerssituaties.",
+      "Ronde- en meldschema voor avond of nacht.",
+      "Overzicht van terugkerende signalen rond toegang, parkeren en wachtruimte."
+    ],
+    "sections": [
+      {
+        "heading": "Grensregio vraagt om heldere ontvangst",
+        "body": "In Venlo kan een zorglocatie bezoekers ontvangen die de Nederlandse zorgroute minder goed kennen of via familie, werk of transport in de regio terechtkomen. Beveiliging moet dan helder kunnen verwijzen en begrenzen zonder de rol van baliemedewerker of zorgverlener over te nemen."
+      },
+      {
+        "heading": "Regionale zorg en grensdynamiek",
+        "body": "Venlo combineert regionale zorg, woonzorg, GGZ en eerstelijnsvoorzieningen met grensverkeer en logistieke routes. Daardoor verdienen taal, doorverwijzing, parkeren, leveranciers en avondbewegingen een expliciete plek in de instructie."
+      },
+      {
+        "heading": "Terrein, toegang en overdracht",
+        "body": "De praktische vraag zit vaak in de overgang tussen buiten en binnen. Wie mag waar komen, hoe wordt ongewenst verblijf aangesproken en welke informatie heeft het zorgteam nodig na een melding?"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is taalverschil onderdeel van de beveiligingsintake?",
+        "answer": "Dat kan. Het gaat dan om ontvangst, route-uitleg en duidelijke huisregels, niet om medische communicatie."
+      },
+      {
+        "question": "Kan Venlo gekoppeld worden aan Noord-Limburgse omliggende plaatsen?",
+        "answer": "Ja, areaServed kan breder worden meegenomen zolang de feitelijke inzet en planning per locatie worden beoordeeld."
+      },
+      {
+        "question": "Welke onderdelen van het terrein worden in Venlo bekeken?",
+        "answer": "Onder meer entree, parkeergebied, rook- en wachtruimte, leveranciersroute, personeelsingang, avondsluiting en de route voor meldingen of externe hulp."
+      }
+    ],
+    "relatedSlugs": ["zorgbeveiliging-limburg", "zorgbeveiliging-weert", "security-host-zorglocatie", "toegangscontrole-zorg"]
+  },
+  {
+    "slug": "zorgbeveiliging-weert",
+    "kind": "regional",
+    "title": "Zorgbeveiliging Weert | Zorgbewaking.nl",
+    "description": "Zorgbeveiliging in Weert en omgeving voor kleinschalige zorg, woonzorg, avondrust, bezoekersafspraken en toezicht op toegang of terrein.",
+    "h1": "Zorgbeveiliging Weert",
+    "eyebrow": "Weert en de grens met Brabant",
+    "hero": "Weert heeft een regionale zorgfunctie tussen Midden-Limburg, Noord-Limburg en Brabant. De beveiligingsvraag is vaak praktisch: rust in woonzorg, controle bij entree, ondersteuning bij avondopenstelling of duidelijkheid na terugkerende incidenten.",
+    "canonical": "https://zorgbewaking.nl/zorgbeveiliging-weert/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Weert", "Nederweert", "Cranendonck", "Leudal", "Midden-Limburg"],
+    "intent": "zorgbeveiliging Weert",
+    "riskContext": "In Weert gaat het regelmatig om overzichtelijke zorglocaties waar beperkte bezetting in avond of weekend kwetsbaar kan voelen. Ook bezoekersafspraken, parkeergebied en buitenrondes kunnen aandacht vragen.",
+    "approach": [
+      "Met de locatie bepalen of zichtbare aanwezigheid of ronde-inzet passend is.",
+      "Huisregels en bezoekafspraken vertalen naar eenvoudig aanspreekgedrag.",
+      "Avond- en weekendmomenten beoordelen op bezetting, verlichting en meldroute.",
+      "Rapportage klein houden maar bruikbaar voor terugkerende signalen."
+    ],
+    "deliverables": [
+      "Praktische intake voor kleinschalige of middelgrote zorglocaties.",
+      "Avond- en weekendinstructie voor entree, ronde en melding.",
+      "Bezoekafsprakenkaart voor medewerkers en beveiliging.",
+      "Evaluatiepunten voor verlichting, route, deurbeleid en overdracht."
+    ],
+    "sections": [
+      {
+        "heading": "Kleiner betekent niet eenvoudiger",
+        "body": "Een kleinere zorglocatie heeft vaak minder lagen tussen entree, zorgteam en management. Dat maakt afspraken overzichtelijk, maar ook kwetsbaar als medewerkers alleen staan of bezoek buiten afspraken om binnenkomt."
+      },
+      {
+        "heading": "Weert als eigen zorgregio",
+        "body": "Weert heeft een regionale zorgfunctie tussen Midden-Limburg, Noord-Limburg en Brabant. Een eigen locatie-intake maakt duidelijk hoe entree, woonzorg, avondrust, parkeren en bereikbaarheid samenkomen in taken en rondes."
+      },
+      {
+        "heading": "Rustige aanwezigheid",
+        "body": "De inzet kan bestaan uit ontvangen, rondes lopen, aanspreken op huisregels, melden volgens instructie en bijzonderheden vastleggen. De beveiliger neemt geen zorgtaken of medische beoordeling over."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Waarom een aparte pagina voor Weert?",
+        "answer": "Weert ligt op een eigen regionale as en heeft andere praktische beveiligingsvragen dan grotere stedelijke zorgclusters. Daarom verdient de pagina eigen context."
+      },
+      {
+        "question": "Past beveiliging ook bij kleinschalige woonzorg?",
+        "answer": "Ja, mits de rol duidelijk is: rust, toegang, ronde en melding. De inzet wordt afgestemd op de locatie en doelgroep."
+      },
+      {
+        "question": "Heeft de beveiliger medische of verpleegkundige taken?",
+        "answer": "Nee. De inzet richt zich op veiligheid, toegang, orde, observatie en melding. Medische en verpleegkundige taken blijven bij bevoegde zorgprofessionals."
+      }
+    ],
+    "relatedSlugs": ["zorgbeveiliging-limburg", "zorgbeveiliging-roermond", "zorgbeveiliging-venlo", "nachtbeveiliging-zorginstelling"]
+  },
+  {
+    "slug": "beveiliging-zorginstelling",
+    "kind": "intent",
+    "title": "Beveiliging zorginstelling | Zorgbewaking.nl",
+    "description": "Beveiliging voor zorginstellingen die toegangscontrole, rust, incidentopvolging en duidelijke rolafspraken nodig hebben zonder zorgprocessen te verstoren.",
+    "h1": "Beveiliging voor zorginstellingen",
+    "eyebrow": "Breed inzetbaar in de zorg",
+    "hero": "Een zorginstelling is geen standaard object. Bewoners, patienten, bezoekers, vrijwilligers, leveranciers en medewerkers gebruiken dezelfde ruimten met verschillende verwachtingen. Beveiliging moet daarom beschermen, begrenzen en tegelijk de zorgomgeving werkbaar houden.",
+    "canonical": "https://zorgbewaking.nl/beveiliging-zorginstelling/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Nederland", "Limburg"],
+    "intent": "beveiliging zorginstelling",
+    "riskContext": "Zorginstellingen kunnen te maken krijgen met ongewenst bezoek, spanning aan de balie, diefstalgevoelige ruimten, avondbezetting, agressie na slecht nieuws of onduidelijke toegang tot afdelingen.",
+    "approach": [
+      "Doel van de inzet afbakenen: ontvangst, toezicht, ronde, toegang of incidentopvolging.",
+      "Rolgrenzen vastleggen tussen beveiliging, receptie, zorgteam en facilitair.",
+      "Huisregels vertalen naar aanspreekbare en uitvoerbare instructies.",
+      "Rapportage gebruiken om patronen te herkennen en inzet bij te sturen."
+    ],
+    "deliverables": [
+      "Intakeverslag met risico's, locaties, tijdvakken en rolverdeling.",
+      "Postinstructie voor beveiligers op de zorglocatie.",
+      "Escalatie- en overdrachtsafspraken met contactpersonen.",
+      "Advies voor tijdelijke of structurele inzet."
+    ],
+    "sections": [
+      {
+        "heading": "Beveiliging die de zorg niet overneemt",
+        "body": "De beveiliger bewaakt orde, toegang en veiligheid volgens instructie. Zorginhoudelijke beoordeling, behandeling en begeleiding blijven bij de zorgorganisatie. Die scheiding voorkomt valse verwachtingen en maakt de samenwerking duidelijker."
+      },
+      {
+        "heading": "Van huisregel naar werkafspraak",
+        "body": "Veel incidenten ontstaan doordat een regel wel bestaat maar niet eenduidig wordt toegepast. Daarom worden bezoekregels, sluitingstijden, toegangspassen, rookplekken en meldlijnen vertaald naar concreet gedrag aan de deur en op de vloer."
+      },
+      {
+        "heading": "Voor verschillende typen locaties",
+        "body": "De aanpak kan worden toegepast bij woonzorg, ziekenhuisomgeving, GGZ, revalidatie, dagbehandeling, eerstelijnszorg en maatschappelijke zorg. De inhoud verschilt per doelgroep en gebouw."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Wat doet beveiliging in een zorginstelling concreet?",
+        "answer": "Toegang begeleiden, rondes lopen, aanspreken op huisregels, bijzonderheden rapporteren en opschalen volgens afgesproken instructie."
+      },
+      {
+        "question": "Is dit hetzelfde als zorgpersoneel?",
+        "answer": "Nee. De inzet is beveiliging in een zorgomgeving en vervangt geen zorgfuncties."
+      },
+      {
+        "question": "Hoe wordt over inzet besloten?",
+        "answer": "Op basis van risico, doel, tijdvak, locatie-indeling, bezoekersproces en gewenste rapportage."
+      }
+    ],
+    "relatedSlugs": ["beveiliging-ziekenhuis", "beveiliging-ggz", "beveiliging-verpleeghuis", "zorgbeveiliging-limburg"]
+  },
+  {
+    "slug": "beveiliging-ziekenhuis",
+    "kind": "intent",
+    "title": "Beveiliging ziekenhuis | Zorgbewaking.nl",
+    "description": "Ziekenhuisbeveiliging voor entrees, poliklinieken, wachtruimten, avondroutes en incidentopvolging met duidelijke afstemming met zorg en facilitair.",
+    "h1": "Beveiliging voor ziekenhuizen",
+    "eyebrow": "Ziekenhuisomgeving",
+    "hero": "Een ziekenhuis heeft veel publiek toegankelijke zones en tegelijk kwetsbare processen. Beveiliging moet beweging mogelijk houden, maar snel duidelijkheid brengen bij ongewenst gedrag, spanningen of toegangsvragen.",
+    "canonical": "https://zorgbewaking.nl/beveiliging-ziekenhuis/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Nederland", "Limburg"],
+    "intent": "beveiliging ziekenhuis",
+    "riskContext": "Risico's ontstaan bij spoed- en avondroutes, balies, wachtruimten, parkeerzones, bezoekers die slecht nieuws krijgen, verward gedrag, verlies of diefstal en onduidelijke toegang tot niet-publieke ruimten.",
+    "approach": [
+      "Publieke en niet-publieke zones onderscheiden in instructies.",
+      "Afstemmen met receptie, facilitair, afdelingsleiding en meldkamerfunctie als die aanwezig is.",
+      "De-escalerende aanwezigheid inzetten op plekken met wachttijd of emotionele belasting.",
+      "Incidenten registreren op tijd, plek, aanleiding, afhandeling en vervolgactie."
+    ],
+    "deliverables": [
+      "Zonekaart voor entree, polikliniek, wachtruimte en avondroute.",
+      "Postinstructie voor bezoekersregie en toegangscontrole.",
+      "Escalatieprotocol voor agressie, ongewenst bezoek en terreinincidenten.",
+      "Rapportage-indeling bruikbaar voor facilitair en veiligheidscoordinatie."
+    ],
+    "sections": [
+      {
+        "heading": "Publiek toegankelijk, niet grenzeloos",
+        "body": "Ziekenhuizen willen toegankelijk zijn, maar niet elke ruimte is voor iedereen bedoeld. Beveiliging helpt om dat onderscheid duidelijk te maken zonder onnodige frictie bij patienten, bezoekers of medewerkers."
+      },
+      {
+        "heading": "Wachtruimten en emotie",
+        "body": "Spanning loopt vaak op waar mensen wachten, zoeken of slecht nieuws verwerken. De instructie moet daarom gaan over houding, afstand, aanspreekmoment en tijdig melden, niet alleen over rondes."
+      },
+      {
+        "heading": "Geen medische rol",
+        "body": "De beveiliger beoordeelt geen medische urgentie en geeft geen zorgadvies. Bij twijfel wordt volgens lokale instructie contact gelegd met de juiste zorg- of veiligheidsverantwoordelijke."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Kan beveiliging bij een ziekenhuisbalie worden ingezet?",
+        "answer": "Ja, als de rol helder is: ontvangst ondersteunen, huisregels bewaken, signaleren en opschalen volgens instructie."
+      },
+      {
+        "question": "Is inzet bij spoedroutes mogelijk?",
+        "answer": "Dat kan alleen na locatiegerichte afstemming, omdat spoedprocessen eigen procedures en verantwoordelijkheden hebben."
+      },
+      {
+        "question": "Welke voorbereiding is nodig voor beveiliging in een ziekenhuisomgeving?",
+        "answer": "De intake moet publieke en niet-publieke zones, bezoekersprocessen, avondroutes, wachtruimten, meldlijnen en de rolverdeling met zorg en facilitair vastleggen."
+      }
+    ],
+    "relatedSlugs": ["beveiliging-zorginstelling", "toegangscontrole-zorg", "agressiepreventie-zorg", "zorgbeveiliging-maastricht"]
+  },
+  {
+    "slug": "beveiliging-ggz",
+    "kind": "intent",
+    "title": "Beveiliging GGZ | Zorgbewaking.nl",
+    "description": "GGZ-beveiliging met nadruk op rust, begrenzing, de-escalatie, duidelijke rolafspraken en zorgvuldige overdracht zonder behandelrol.",
+    "h1": "Beveiliging voor GGZ-locaties",
+    "eyebrow": "Rust en begrenzing",
+    "hero": "GGZ-locaties vragen beveiliging die spanning kan verdragen zonder de situatie groter te maken. De kern is duidelijkheid: wat is de rol van beveiliging, wanneer wordt opgeschaald en welke informatie wordt overgedragen?",
+    "canonical": "https://zorgbewaking.nl/beveiliging-ggz/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Nederland", "Limburg"],
+    "intent": "beveiliging GGZ",
+    "riskContext": "GGZ-omgevingen kunnen te maken krijgen met ontregeling, grensoverschrijdend gedrag, ongewenst bezoek, familieconflict, middelengebruik in de omgeving of spanning rond toegang en vertrek.",
+    "approach": [
+      "Rol van beveiliging expliciet scheiden van behandeling en begeleiding.",
+      "Afspraken maken over afstand, taalgebruik, benadering en terugtrekken.",
+      "Meldlijnen vastleggen voor zorgteam, crisisdienst of externe hulp volgens lokale instructie.",
+      "Rapporteren op feitelijk gedrag en gebeurtenissen, zonder diagnose of interpretatie."
+    ],
+    "deliverables": [
+      "GGZ-specifieke rol- en escalatieafspraken.",
+      "Instructie voor rustig aanspreken, begrenzen en observeren.",
+      "Feitelijk rapportageformat zonder medische duiding.",
+      "Afstemming van toegang, bezoek en buitenruimte."
+    ],
+    "sections": [
+      {
+        "heading": "De-escalatie begint bij rolhelderheid",
+        "body": "Een beveiliger die niet weet waar de grens ligt, kan onbedoeld spanning vergroten. Daarom begint GGZ-beveiliging met afspraken over aanwezigheid, aanspreken, afstand en het moment waarop het zorgteam leidend is."
+      },
+      {
+        "heading": "Feitelijk rapporteren",
+        "body": "Rapportages horen te beschrijven wat is gezien, gehoord en gedaan. Diagnoses, vermoedens of behandelconclusies horen daar niet in thuis."
+      },
+      {
+        "heading": "Bezoekers en buitenruimte",
+        "body": "Niet alle spanning ontstaat binnen. Bezoek, rookplekken, parkeerplaatsen en routes rond de locatie kunnen onderdeel zijn van de beveiligingsinstructie."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Heeft beveiliging een behandelrol in de GGZ?",
+        "answer": "Nee. Beveiliging ondersteunt veiligheid, toegang en orde volgens instructie. Behandeling en begeleiding blijven bij zorgprofessionals."
+      },
+      {
+        "question": "Hoe wordt privacy bewaakt?",
+        "answer": "Door feitelijk en beperkt te rapporteren, alleen relevante informatie te delen en lokale afspraken van de zorgorganisatie te volgen."
+      },
+      {
+        "question": "Kan inzet tijdelijk zijn?",
+        "answer": "Ja, bijvoorbeeld na terugkerende incidenten of tijdens een periode waarin extra rust en toezicht nodig is."
+      }
+    ],
+    "relatedSlugs": ["de-escalerende-beveiliging", "agressiepreventie-zorg", "zorgbeveiliging-heerlen", "beveiliging-zorginstelling"]
+  },
+  {
+    "slug": "beveiliging-verpleeghuis",
+    "kind": "intent",
+    "title": "Beveiliging verpleeghuis | Zorgbewaking.nl",
+    "description": "Beveiliging voor verpleeghuizen en woonzorglocaties met aandacht voor avondrust, bezoekafspraken, dwaalrisico's als zorgsignaal en veilige rondes.",
+    "h1": "Beveiliging voor verpleeghuizen",
+    "eyebrow": "Woonzorg en avondrust",
+    "hero": "Een verpleeghuis is tegelijk woonomgeving, werkplek en bezoeklocatie. Beveiliging moet daar laagdrempelig, respectvol en duidelijk zijn, met aandacht voor bewonersrust en goede overdracht aan het zorgteam.",
+    "canonical": "https://zorgbewaking.nl/beveiliging-verpleeghuis/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Nederland", "Limburg"],
+    "intent": "beveiliging verpleeghuis",
+    "riskContext": "Risico's zijn onder meer ongewenst bezoek, onrust in de avond, kwetsbare bewoners bij entree of buitenruimte, diefstalgevoelige plekken, brand- of sluitrondes en medewerkers die alleen staan.",
+    "approach": [
+      "Woonkarakter van de locatie centraal houden in houding en zichtbaarheid.",
+      "Afspraken maken over bezoek buiten tijden, deurbeleid en overdracht bij bewonerssignalen.",
+      "Rondes plannen zonder onnodige verstoring van bewoners.",
+      "Feitelijk rapporteren wat voor zorgteam of locatiemanager relevant is."
+    ],
+    "deliverables": [
+      "Avond- en nachtrondeplan voor woonzorglocaties.",
+      "Bezoek- en deurinstructie passend bij bewonersrust.",
+      "Meldkaart voor bijzonderheden rond bewoners, bezoekers en gebouw.",
+      "Evaluatiepunten voor verlichting, afsluiting en medewerkersveiligheid."
+    ],
+    "sections": [
+      {
+        "heading": "Een thuis vraagt andere beveiliging",
+        "body": "In een verpleeghuis werkt harde objecttaal vaak niet. Bewoners wonen er, familie komt op bezoek en medewerkers moeten hun werk rustig kunnen doen. Beveiliging moet daarop aansluiten."
+      },
+      {
+        "heading": "Bewonerssignalen doorgeven, niet beoordelen",
+        "body": "Als een bewoner bij een deur staat of onrustig lijkt, is dat voor beveiliging een signaal om volgens instructie te melden. De zorginhoudelijke beoordeling blijft bij het zorgteam."
+      },
+      {
+        "heading": "Nachtrust en gebouwveiligheid",
+        "body": "Rondes kunnen gericht zijn op afsluiting, ongewenste aanwezigheid, technische bijzonderheden en plekken waar medewerkers zich kwetsbaar voelen. De route wordt zo gekozen dat bewoners zo min mogelijk worden gestoord."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Past beveiliging bij een huiselijke woonzorglocatie?",
+        "answer": "Ja, als de zichtbaarheid en instructie passen bij de bewoners en het woonkarakter van de locatie."
+      },
+      {
+        "question": "Mag beveiliging bewoners tegenhouden?",
+        "answer": "Deze pagina geeft geen juridisch of medisch advies. Afspraken over bewonersveiligheid en vrijheid worden door de zorgorganisatie bepaald; beveiliging volgt de lokale instructie."
+      },
+      {
+        "question": "Is nachtinzet mogelijk?",
+        "answer": "Nachtinzet kan worden onderzocht op basis van risico, gebouw, bezetting en gewenste rondes."
+      }
+    ],
+    "relatedSlugs": ["nachtbeveiliging-zorginstelling", "beveiliging-zorginstelling", "zorgbeveiliging-weert", "de-escalerende-beveiliging"]
+  },
+  {
+    "slug": "agressiepreventie-zorg",
+    "kind": "intent",
+    "title": "Agressiepreventie zorg | Zorgbewaking.nl",
+    "description": "Agressiepreventie in de zorg met praktische beveiligingsafspraken voor vroeg signaleren, rustig aanspreken, rapporteren en veilig opschalen.",
+    "h1": "Agressiepreventie in de zorg",
+    "eyebrow": "Voorkomen en begrenzen",
+    "hero": "Agressiepreventie begint niet bij het incident zelf, maar bij herkenbare afspraken: wie spreekt aan, wanneer wordt afstand gehouden, welke signalen worden gedeeld en hoe blijft het zorgteam in positie?",
+    "canonical": "https://zorgbewaking.nl/agressiepreventie-zorg/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Nederland", "Limburg"],
+    "intent": "agressiepreventie zorg",
+    "riskContext": "Agressie kan ontstaan door wachttijd, stress, middelengebruik, familieconflict, slecht nieuws, onduidelijke regels of terugkerend grensoverschrijdend gedrag. Beveiliging kan helpen vroeg te begrenzen en veilig te melden.",
+    "approach": [
+      "Terugkerende aanleidingen en plekken analyseren uit meldingen en observaties.",
+      "Aanspreek- en afstandsafspraken concreet maken voor beveiliging en medewerkers.",
+      "Escalatielijn vastleggen voor situaties die niet rustig kunnen worden begrensd.",
+      "Nazorg en rapportage koppelen aan leren, niet aan schuld zoeken."
+    ],
+    "deliverables": [
+      "Agressierisico-scan voor entree, balie, wachtruimte en afdeling.",
+      "Aanspreekkaart met rustige begrenzing en overdrachtsafspraken.",
+      "Incidentrapportage gericht op aanleiding, gedrag, maatregel en vervolg.",
+      "Advies voor preventieve zichtbaarheid of tijdelijke extra inzet."
+    ],
+    "sections": [
+      {
+        "heading": "Preventie is concreet gedrag",
+        "body": "Algemene woorden als respect en veiligheid zijn belangrijk, maar op de werkvloer telt concreet gedrag. Wat zegt iemand bij schelden, wie blijft bij de balie, wie belt intern en wanneer stopt het gesprek?"
+      },
+      {
+        "heading": "Niet medicaliseren",
+        "body": "Agressiepreventie door beveiliging gaat over veiligheidsgedrag en procesafspraken. De oorzaak van gedrag wordt niet medisch geduid door de beveiliger."
+      },
+      {
+        "heading": "Leren van meldingen",
+        "body": "Als incidenten feitelijk worden vastgelegd, ontstaat zicht op patronen: tijdstippen, plekken, triggers en afhandeling. Dat maakt preventie praktischer."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Kan beveiliging agressie voorkomen?",
+        "answer": "Beveiliging kan risico's verlagen door zichtbaarheid, aanspreken, begrenzen en tijdig melden. Een garantie op het voorkomen van agressie bestaat niet."
+      },
+      {
+        "question": "Is training inbegrepen?",
+        "answer": "Deze pagina beschrijft beveiligingsinzet en werkafspraken. Eventuele training of instructies worden apart afgestemd."
+      },
+      {
+        "question": "Voor welke zorglocaties is dit relevant?",
+        "answer": "Voor locaties met balies, wachtruimten, bezoekmomenten, avondopenstelling of terugkerende incidentmeldingen."
+      }
+    ],
+    "relatedSlugs": ["de-escalerende-beveiliging", "beveiliging-ggz", "beveiliging-ziekenhuis", "zorgbeveiliging-roermond"]
+  },
+  {
+    "slug": "de-escalerende-beveiliging",
+    "kind": "intent",
+    "title": "De-escalerende beveiliging | Zorgbewaking.nl",
+    "description": "De-escalerende beveiliging voor zorglocaties waar rustige aanwezigheid, duidelijke grenzen, afstand en zorgvuldig opschalen belangrijk zijn.",
+    "h1": "De-escalerende beveiliging",
+    "eyebrow": "Rustig aanwezig, duidelijk begrenzen",
+    "hero": "De-escalerende beveiliging draait om timing en rolvastheid. Soms helpt zichtbaarheid, soms juist afstand. De juiste keuze hangt af van locatie, doelgroep, huisregels en het moment waarop het zorgteam betrokken moet worden.",
+    "canonical": "https://zorgbewaking.nl/de-escalerende-beveiliging/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Nederland", "Limburg"],
+    "intent": "de-escalerende beveiliging zorg",
+    "riskContext": "Escalatie ontstaat vaak door opstapeling: wachten, onduidelijkheid, emotie, herhaalde correctie of publiek gezichtsverlies. Beveiliging moet daarom voorspelbaar en proportioneel handelen.",
+    "approach": [
+      "Afspraken maken over zichtbare positie, aanspreekmoment en veilige afstand.",
+      "Huisregels vertalen naar korte, uitvoerbare zinnen en handelingsopties.",
+      "Opschalen via vooraf bekende contactpersonen en meldroutes.",
+      "Na incidenten feitelijk terugkijken op wat werkte en wat aangepast moet worden."
+    ],
+    "deliverables": [
+      "De-escalerende werkinstructie voor beveiligingspost of ronde.",
+      "Afwegingskaart voor observeren, aanspreken, begrenzen en opschalen.",
+      "Rapportageformat voor feitelijke incidentbeschrijving.",
+      "Evaluatiepunten voor omgeving, wachttijd en communicatie."
+    ],
+    "sections": [
+      {
+        "heading": "Niet elke situatie vraagt actie",
+        "body": "De-escalatie kan betekenen dat een beveiliger zichtbaar blijft zonder direct in te grijpen. Het kan ook betekenen dat juist snel en rustig grenzen worden gesteld. Daarom is instructie per locatie belangrijk."
+      },
+      {
+        "heading": "Taal, houding en afstand",
+        "body": "Korte uitleg, neutrale houding en voldoende afstand zijn vaak effectiever dan discussie. De beveiliger moet weten welke woorden passen bij de huisregels van de locatie."
+      },
+      {
+        "heading": "Samen met zorgteams",
+        "body": "De-escalerende beveiliging werkt alleen als het zorgteam weet wat het van beveiliging mag verwachten. Anders ontstaan tegenstrijdige signalen richting bezoeker, patient of bewoner."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is de-escalatie hetzelfde als niet ingrijpen?",
+        "answer": "Nee. Het gaat om proportioneel handelen: observeren waar dat kan, begrenzen waar dat moet en opschalen volgens afspraak."
+      },
+      {
+        "question": "Past dit bij alle zorglocaties?",
+        "answer": "De principes zijn breed bruikbaar, maar instructies moeten per locatie worden afgestemd."
+      },
+      {
+        "question": "Garandeert de-escalerende beveiliging rust?",
+        "answer": "Nee. Het kan bijdragen aan rust en duidelijkheid, maar garandeert geen uitkomst."
+      }
+    ],
+    "relatedSlugs": ["agressiepreventie-zorg", "beveiliging-ggz", "security-host-zorglocatie", "zorgbeveiliging-heerlen"]
+  },
+  {
+    "slug": "security-host-zorglocatie",
+    "kind": "intent",
+    "title": "Security host zorglocatie | Zorgbewaking.nl",
+    "description": "Security host voor zorglocaties waar gastvrije ontvangst, toegangsregie, signaleren en rustig begrenzen samen moeten komen.",
+    "h1": "Security host voor zorglocaties",
+    "eyebrow": "Gastvrij en begrenzend",
+    "hero": "Een security host combineert ontvangst met veiligheidsbewustzijn. Dat is bruikbaar op zorglocaties waar bezoekers welkom zijn, maar huisregels, toegang en signalen wel consequent moeten worden bewaakt.",
+    "canonical": "https://zorgbewaking.nl/security-host-zorglocatie/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Nederland", "Limburg"],
+    "intent": "security host zorglocatie",
+    "riskContext": "Bij entrees, balies en wachtruimten is de eerste interactie bepalend. Onduidelijke ontvangst kan leiden tot frustratie, verkeerde routes, ongewenste toegang of druk op zorgmedewerkers.",
+    "approach": [
+      "Ontvangsttaken en beveiligingstaken scherp scheiden van zorginhoudelijke taken.",
+      "Bezoekersroute, aanmeldproces en huisregels praktisch maken.",
+      "Afspraken vastleggen over signaleren, aanspreken en doorverwijzen.",
+      "Dagrapportage gebruiken voor bezoekersvragen, bijzonderheden en verbeterpunten."
+    ],
+    "deliverables": [
+      "Security-host instructie voor entree of ontvangstgebied.",
+      "Bezoekersroutekaart met aanmelding, wachtruimte en verboden zones.",
+      "Afspraken over toon, aanspreken, weigeren en melding.",
+      "Dagrapportage met signalen uit ontvangst en toegang."
+    ],
+    "sections": [
+      {
+        "heading": "Meer dan een vriendelijke ontvangst",
+        "body": "Een security host ziet wie binnenkomt, merkt spanning op en kent de huisregels. De functie is nuttig wanneer gastvrijheid en begrenzing in dezelfde eerste minuten nodig zijn."
+      },
+      {
+        "heading": "Geen vervanging van receptie of zorg",
+        "body": "De security host kan ontvangst ondersteunen, maar vervangt geen medische triage, zorginhoudelijk advies of volledige receptiefunctie tenzij dat apart en passend is afgesproken."
+      },
+      {
+        "heading": "Signalen vroeg delen",
+        "body": "Een korte dagrapportage kan laten zien welke vragen vaak terugkomen, waar bezoekers verkeerd lopen en op welke momenten spanning ontstaat."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Wat is het verschil tussen een beveiliger en security host?",
+        "answer": "Een security host heeft nadrukkelijk een ontvangstrol naast beveiligingstaken. De exacte taakverdeling wordt per locatie vastgelegd."
+      },
+      {
+        "question": "Kan een security host bezoekers weigeren?",
+        "answer": "Alleen volgens de huisregels en instructies van de locatie. De bevoegdheid en escalatie worden vooraf afgesproken."
+      },
+      {
+        "question": "Voor welke plekken is dit geschikt?",
+        "answer": "Voor entrees, balies, wachtruimten en locaties waar bezoekersregie belangrijk is."
+      }
+    ],
+    "relatedSlugs": ["toegangscontrole-zorg", "de-escalerende-beveiliging", "zorgbeveiliging-venlo", "beveiliging-zorginstelling"]
+  },
+  {
+    "slug": "nachtbeveiliging-zorginstelling",
+    "kind": "intent",
+    "title": "Nachtbeveiliging zorginstelling | Zorgbewaking.nl",
+    "description": "Nachtbeveiliging voor zorginstellingen met rondes, toegangscontrole, meldopvolging en overdracht voor avonden, nachten en weekenden.",
+    "h1": "Nachtbeveiliging voor zorginstellingen",
+    "eyebrow": "Avond, nacht en weekend",
+    "hero": "In de nacht verandert een zorglocatie. Er zijn minder medewerkers zichtbaar, bezoekersstromen zijn anders en kleine gebouwsignalen vallen meer op. Nachtbeveiliging vraagt daarom om sobere, duidelijke instructies en goede overdracht.",
+    "canonical": "https://zorgbewaking.nl/nachtbeveiliging-zorginstelling/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Nederland", "Limburg"],
+    "intent": "nachtbeveiliging zorginstelling",
+    "riskContext": "Nachtelijke risico's zijn ongewenste toegang, medewerkers die alleen staan, technische meldingen, onrust rond buitenruimte, afsluiting, sleutelbeheer en situaties waarin snel duidelijk moet zijn wie gebeld wordt.",
+    "approach": [
+      "Nachtrondes koppelen aan concrete controlepunten en rustzones.",
+      "Afspreken hoe meldingen, sleutels, deuren en technische bijzonderheden worden behandeld.",
+      "Overdracht in de ochtend kort, feitelijk en bruikbaar maken.",
+      "Aandacht houden voor bewoners- of patientenrust bij zichtbaarheid en routekeuze."
+    ],
+    "deliverables": [
+      "Nachtrondeplan met tijden, routes en controlepunten.",
+      "Meld- en escalatiekaart voor nachtelijke bijzonderheden.",
+      "Sleutel-, deur- en toegangsinstructie.",
+      "Ochtendrapportage met feiten, acties en open punten."
+    ],
+    "sections": [
+      {
+        "heading": "Minder mensen, meer afhankelijkheid van instructie",
+        "body": "In de nacht is er minder ruimte voor improvisatie. De beveiliger moet weten welke deur open mag, welke melding prioriteit heeft en wie bereikbaar is voor welk type situatie."
+      },
+      {
+        "heading": "Rustige rondes",
+        "body": "Rondes worden zo ingericht dat ze gebouwveiligheid ondersteunen zonder bewoners of patienten onnodig te storen. Controlepunten zijn concreet: deur, buitenruimte, techniekruimte, entree of parkeergebied."
+      },
+      {
+        "heading": "Overdracht aan de dagorganisatie",
+        "body": "Een nachtrapport moet geen lange roman zijn. Het moet helder maken wat is gezien, wat is gedaan en welke actie nog openstaat."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is nachtbeveiliging altijd permanent nodig?",
+        "answer": "Nee. Soms is tijdelijke inzet of een beperkt aantal nachten passend. Dat hangt af van risico en doel."
+      },
+      {
+        "question": "Kan nachtbeveiliging technische meldingen opvolgen?",
+        "answer": "Alleen volgens instructie en binnen de afgesproken beveiligingsrol. Specialistische technische beoordeling valt daar niet automatisch onder."
+      },
+      {
+        "question": "Wordt 24/7 beschikbaarheid beloofd?",
+        "answer": "Nee. Beschikbaarheid en planning worden per aanvraag bekeken; deze pagina doet geen algemene 24/7-belofte."
+      }
+    ],
+    "relatedSlugs": ["beveiliging-verpleeghuis", "zorgbeveiliging-weert", "zorgbeveiliging-sittard-geleen", "beveiliging-zorginstelling"]
+  },
+  {
+    "slug": "toegangscontrole-zorg",
+    "kind": "intent",
+    "title": "Toegangscontrole zorg | Zorgbewaking.nl",
+    "description": "Toegangscontrole voor zorglocaties met bezoekersafspraken, leveranciersroutes, niet-publieke zones, deurbeleid en duidelijke overdracht.",
+    "h1": "Toegangscontrole in de zorg",
+    "eyebrow": "Wie mag waar komen",
+    "hero": "Toegangscontrole in de zorg is gevoelig: locaties moeten bereikbaar blijven voor patienten, bewoners en familie, maar niet elke deur of afdeling is publiek. Goede afspraken maken het verschil tussen gastvrijheid en onbeheersbare toegang.",
+    "canonical": "https://zorgbewaking.nl/toegangscontrole-zorg/",
+    "updatedAt": "2026-07-10",
+    "areaServed": ["Nederland", "Limburg"],
+    "intent": "toegangscontrole zorg",
+    "riskContext": "Risico's ontstaan bij open entrees, bezoek buiten tijden, leveranciers die verkeerd lopen, familieconflicten, onbeheerde deuren, sleutelbeheer en onduidelijke zones tussen publiek en besloten.",
+    "approach": [
+      "Publieke, semi-publieke en besloten zones per locatie onderscheiden.",
+      "Bezoek-, leveranciers- en medewerkersroutes in instructies verwerken.",
+      "Afspraken maken over aanspreken, weigeren, registreren en opschalen.",
+      "Controlepunten periodiek evalueren op werkbaarheid en privacy."
+    ],
+    "deliverables": [
+      "Toegangsmatrix voor bezoekers, leveranciers, medewerkers en externe partijen.",
+      "Deur- en zone-instructie voor beveiliging en ontvangst.",
+      "Afspraken voor weigeren, begeleiden of melden van ongewenste toegang.",
+      "Rapportage van terugkerende toegangsvragen en knelpunten."
+    ],
+    "sections": [
+      {
+        "heading": "Open waar het kan, begrensd waar het moet",
+        "body": "Zorglocaties zijn vaak bewust toegankelijk. Toegangscontrole betekent daarom niet dat alles dichtgaat, maar dat per zone duidelijk is wie toegang heeft en wie aanspreekt bij twijfel."
+      },
+      {
+        "heading": "Leveranciers en dienstverleners",
+        "body": "Niet alleen bezoekers vragen aandacht. Leveranciers, monteurs, taxi's en externe dienstverleners hebben eigen routes en tijden nodig. Als die ontbreken, ontstaan onnodige onderbrekingen voor zorgteams."
+      },
+      {
+        "heading": "Privacy en proportionaliteit",
+        "body": "Registratie en controle moeten passen bij de locatie en wet- en regelgeving van de zorgorganisatie. Deze pagina geeft geen juridisch advies, maar helpt de beveiligingsafspraken concreet te maken."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is toegangscontrole hetzelfde als iedereen registreren?",
+        "answer": "Nee. Registratie is een mogelijke maatregel, maar toegangscontrole kan ook bestaan uit aanspreken, verwijzen, badges, deurbeleid of begeleide routes."
+      },
+      {
+        "question": "Kan toegang vriendelijk worden begrensd?",
+        "answer": "Ja. Juist in de zorg is duidelijke en rustige uitleg belangrijk om spanning te beperken."
+      },
+      {
+        "question": "Geeft Zorgbewaking.nl juridisch advies over privacy?",
+        "answer": "Nee. Privacy- en juridische keuzes moeten door de organisatie zelf of met eigen adviseurs worden bepaald."
+      }
+    ],
+    "relatedSlugs": ["security-host-zorglocatie", "beveiliging-ziekenhuis", "zorgbeveiliging-maastricht", "zorgbeveiliging-venlo"]
+  }
+]
