@@ -1,6 +1,5 @@
 import type { MetadataRoute } from "next";
 import { getAllSlugs } from "@/lib/blog";
-import { regios } from "@/lib/regio";
 import { seoPages } from "@/lib/seo-pages";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -32,19 +31,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  const regioRoutes = regios.map((regio) => ({
-    url: `${baseUrl}/regio/${regio.slug}`,
-    lastModified: new Date(),
-    changeFrequency: "weekly" as const,
-    priority: 0.7,
-  }));
-
   const seoLandingRoutes = seoPages.map((page) => ({
     url: `${baseUrl}/${page.slug}`,
-    lastModified: new Date(),
+    lastModified: new Date(page.updatedAt),
     changeFrequency: "monthly" as const,
     priority: 0.8,
   }));
 
-  return [...staticRoutes, ...blogRoutes, ...regioRoutes, ...seoLandingRoutes];
+  return [...staticRoutes, ...blogRoutes, ...seoLandingRoutes];
 }

@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "eslint .",
+    "validate:seo": "node scripts/validate-seo-content.mjs"
   },
   "dependencies": {
     "next": "latest",
