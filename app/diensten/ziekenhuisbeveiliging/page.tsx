@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import DienstPage from "@/components/DienstPage";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://zorgbewaking.nl/diensten/ziekenhuisbeveiliging" },
   title: "Ziekenhuisbeveiliging — Professionele beveiliging voor ziekenhuizen",
   description: "Gespecialiseerde ziekenhuisbeveiliging met de-escalatie getrainde beveiligers. SEH, psychiatrie, bezoekersstromen. Praesidion Security — vergunning ND 8968.",
 };

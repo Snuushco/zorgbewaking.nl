@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://zorgbewaking.nl/over-ons" },
   title: "Over ons — Praesidion Security",
   description: "Praesidion Security is dé specialist in zorgbeveiliging in Limburg. Lees ons verhaal, onze missie en waarom zorginzicht in ons DNA zit.",
 };

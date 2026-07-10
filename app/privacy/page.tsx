@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://zorgbewaking.nl/privacy" },
   title: "Privacybeleid",
   description: "Privacybeleid van Zorgbewaking.nl en Praesidion Security B.V.",
 };
