@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://zorgbewaking.nl/diensten" },
   title: "Diensten — Zorgbeveiliging op maat",
   description:
     "Ontdek onze diensten: ziekenhuisbeveiliging, verpleeghuisbeveiliging, GGZ-beveiliging, AZC-beveiliging en thuiszorg-beveiliging.",

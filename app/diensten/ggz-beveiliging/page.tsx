@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import DienstPage from "@/components/DienstPage";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://zorgbewaking.nl/diensten/ggz-beveiliging" },
   title: "GGZ-beveiliging — Specialistische beveiliging voor de geestelijke gezondheidszorg",
   description: "Gespecialiseerde beveiliging voor GGZ-instellingen. De-escalatie getrainde beveiligers die psychiatrische zorg begrijpen. Praesidion Security — vergunning ND 8968.",
 };

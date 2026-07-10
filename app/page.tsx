@@ -1,5 +1,10 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import ContactForm from "@/components/ContactForm";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "https://zorgbewaking.nl" },
+};
 
 const diensten = [
   {

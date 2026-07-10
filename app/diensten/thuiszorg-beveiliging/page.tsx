@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import DienstPage from "@/components/DienstPage";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://zorgbewaking.nl/diensten/thuiszorg-beveiliging" },
   title: "Thuiszorg-beveiliging — Bescherming van thuiszorgmedewerkers",
   description: "Beveiliging voor thuiszorgmedewerkers bij risicovolle huisbezoeken. Buddy-beveiliging, risicotaxatie en 24/7 alarmopvolging. Praesidion Security.",
 };

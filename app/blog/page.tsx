@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getAllPosts } from "@/lib/blog";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://zorgbewaking.nl/blog" },
   title: "Blog — Kennis over zorgbeveiliging",
   description: "Artikelen over zorgbeveiliging, de-escalatie, agressie in de zorg en meer. Praesidion Security deelt kennis en inzichten uit de praktijk.",
 };

@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import DienstPage from "@/components/DienstPage";
 
 export const metadata: Metadata = {
+  alternates: { canonical: "https://zorgbewaking.nl/diensten/azc-beveiliging" },
   title: "AZC-beveiliging — Beveiliging voor asielzoekerscentra",
   description: "Cultureel sensitieve beveiliging voor AZC's en opvanglocaties. Mensgerichte aanpak met oog voor diverse achtergronden. Praesidion Security.",
 };
